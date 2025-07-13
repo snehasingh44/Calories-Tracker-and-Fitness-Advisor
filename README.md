@@ -40,7 +40,7 @@ Clone the repo:
 
 bash
 
-git clone https://github.com/snehasingh44/calorie-tracker.git
+git clone https://github.com/snehasingh44/calorie-tracker-and-Fitness-Advisor.git
 cd calorie-tracker
 Install dependencies:
 
